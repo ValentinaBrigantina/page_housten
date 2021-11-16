@@ -1,0 +1,32 @@
+body { 
+   margin: auto;
+   width: 70%;
+   font-family: Poiret One, 'Times New Roman', Times, serif;
+   font-stretch: condensed;
+   position: relative;
+   }
+
+h1, h2, h3 {
+   font-family: Arial, sans-serif;
+   margin-top: 1.5em;
+   }
+h1 {
+   font-size: 32px;
+   }
+
+table { 
+   border: 1px solid black; 
+   border-collapse: separate; 
+   }
+th, td { 
+   border: 1px solid black; 
+   }
+
+.img {
+   float: right;
+   margin: 3em;
+   width: 30%;
+   }
+figcaption {
+   font-style: italic;
+   }
